@@ -6,3 +6,4 @@
 *lime
 *tomatos
 ## Instructions
+* peel the avocados
