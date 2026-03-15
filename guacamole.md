@@ -6,4 +6,4 @@
 *lime
 *tomatos
 ## Instructions
-*buy it from HEB
+*buy it from the store
